@@ -46,9 +46,9 @@ Para completar este proyecto tendras que usar la herramienta **NextAI**, tus tar
 5. **Mejorar la Accesibilidad y Responsividad de la aplición**
     - Con standar WCAG 2.1 AA
     - Los requisitos de responsividad deben ser:
-        - **Escritorio**
-        - **Smartphone Vertical**
-        - **Smartphone Horizontal** 
+        - Escritorio
+        - Smartphone Vertical
+        - Smartphone Horizontal 
 
 6. **Crear un Componente de Detalles del Producto**
     - Genera un nuevo componente `ProductDetailsComponent` que muestre los detalles de un producto seleccionado.
