@@ -21,6 +21,13 @@ catalog-app/
 └── README.md                      # Este archivo de documentación
 ```
 
+
+## Resultado Esperado
+
+A continuación se muestra una imagen del resultado esperado de la aplicación en funcionamiento:
+
+![Resultado Esperado](https://i.ibb.co/jyfmsxf/reto-Frontendv2.png)
+
 ## Lista de Tareas
 
 Para completar este proyecto tendras que usar la herramienta **NextAI**, tus tareas seran las siguientes:
@@ -28,17 +35,24 @@ Para completar este proyecto tendras que usar la herramienta **NextAI**, tus tar
 1. **Identificar y corregir errores en el código existente**
 
 2. **Mejorar la disposición y estilos de la aplicación**
+    - Podeis tener errores en: **estilos, logica y datos**
 
 3. **Generar documentación clara y concisa del código**
+    - Usad el estandar TSDoc.
 
 4. **Generar productos adicionales utilizando herramientas de IA**
+    - Un total de 100 productos con diferentes idiomas.
 
 5. **Mejorar la Accesibilidad y Responsividad de la aplición**
+    - Con standar WCAG 2.1 AA
+    - Los requisitos de responsividad deben ser:
+        - **Escritorio**
+        - **Smartphone Vertical**
+        - **Smartphone Horizontal** 
 
 6. **Crear un Componente de Detalles del Producto**
+    - Genera un nuevo componente `ProductDetailsComponent` que muestre los detalles de un producto seleccionado.
 
 7. **Validar el resultado y asegurarse de que la aplicación funcione correctamente**
 
-8. **Actualizar el Readme.md**
-
-9. **Actualizar el `README.md`**: Incluye una breve explicación de los cambios realizados y las soluciones aplicadas en el proyecto.
+8. **Actualizar el `README.md`**: Incluye una breve explicación de los cambios realizados y las soluciones aplicadas en el proyecto.
